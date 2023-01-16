@@ -9,7 +9,6 @@ CREATE TABLE IF NOT EXISTS customer (
     `email` VARCHAR(21) CHARACTER SET utf8,
     `DOB` DATETIME
 );
-
 INSERT INTO
     customer
 VALUES
