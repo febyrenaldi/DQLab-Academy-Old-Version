@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository! I'm thrilled to showcase my journey as a passionate data enthusiast who has successfully completed courses on the DQ Lab Academy platform. Through these courses, I've acquired comprehensive skills in utilizing SQL, R, and Python to unlock insights and drive meaningful conclusions from complex datasets.
 
-🔍 What You'll Find Here:
+🔍 What You'll Find Here :
 
 ✨ A Collection of Data Projects: Explore a diverse range of projects where I've harnessed the power of SQL, R, and Python to transform raw data into valuable insights. From data manipulation and visualization to predictive modeling, each project demonstrates my dedication to crafting data-driven solutions.
 
